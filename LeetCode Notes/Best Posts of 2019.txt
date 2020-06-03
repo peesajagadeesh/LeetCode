@@ -1,0 +1,90 @@
+
+
+The end of the year gives time for all of us to reflect upon the year, here's a compilation of some of the best posts among these categories we've found! ʕ·ᴥ·ʔ 💕
+
+Top 10 Upvoted 👍
+Here is a compilation of the most upvoted posts from users like you! The amount of care and detail put into contructing these posts is no doubt the reason why LeetCoders love them so much.
+
+    Google | L5 | MTV | Oct 2019 (1.1k votes)
+    Amazon | SDE1 | Seattle | Oct 2019 (757 votes)
+    I Leetcoded (And So Can You!) (734 votes)
+    From 0 to clearing Uber/Apple/Amazon/LinkedIn/Google (690 votes)
+    How to effectively use LeetCode to prepare for interviews!! (659 votes)
+    How I Train Myself For Google Internship Interview (424 votes)
+    My System Design Template (422 votes)
+    I've failed 10 interviews and 4 onsites, what should I do? (365 votes)
+    Google | L4 | Warsaw | Sep 2019 (360 votes)
+    Google | L3 | Seattle | Sep 2019 (353 votes)
+
+Best Discussion Generated 🗣
+We recognize that the road to getting your dream offer can be arduous but we promise you are not the only one feeling that way. Here's some of the posts that has generated some of the most meaningful and encouraging dialogues within LeetCoders.
+
+I've failed 10 interviews and 4 onsites, what should I do?
+I Leetcoded (And So Can You!)
+Leetcode NOOB (Struggling with easy)
+How I improved my problem solving
+Anyone having massive anxiety?
+
+Study Materials & Tips 📚
+Not sure where to start? Check out these posts:
+
+    How to LeetCode
+    How to Leetcode Effectively
+    How to use LeetCode to help yourself efficiently and effectively (for beginners)
+    A few helpful links to posts which tell you HOW to grind leetcode
+    Folks who cracked google, what % of LC hard problems were you able to solve on your own?
+
+    Where to Begin
+    Topic wise problems for Beginners
+
+    Problem Lists by Topic
+    List of questions sorted by common patterns.
+    Binary-search Interview Questions
+
+    Comprehensive Prep List
+    How to effectively use LeetCode to prepare for interviews!!
+    Google Interview Tips + FAQs Answered + Resources
+    My notes for the night before interview.
+    11 companies, 55 Interviews, 9 offers including Google, Amazon (and Square?)
+
+    Time Management
+    Full Time Employees-Time Management
+
+Technical Phone Interview ☎️
+We found this post outstanding because it's not always the clearest as to how technical phone screenings go. Here's a great post and don't forget to hone your Phone interviews with our Mock Interviews
+Google initial phone screen with recruiter
+
+Behavioral Interview Experience 🤖
+If you've nailed the technical side, don't underestimate the behavioral portion of an interview. Here is a phenomenally compiled list from a LeetCode on their Amazon experience.
+Amazon Behavioral questions | Leadership Principles | LP
+
+Detailed Interview Timeline & Questions 🗓
+It can be confusing as to how the Interview Timeline can go and the wait can often be the most nerve-racking time. Here's some of the most detailed descriptions of how each of these LeetCoders were given their dream offer with perserverence.
+
+Amazon SDE New grad Timeline
+Amazon | SDE2 | Boston | Aug 2019
+Amazon | SDE1 | Seattle | Oct 2019
+Google | L4 | Warsaw | Sep 2019
+Offers from Google/Facebook/Apple/Uber/Snap/etc.. after numerous failures
+
+Real Life Interview Question and Discussion 🦄
+Here are some of the most reported and discussed real life questions asked during technical interviews. Join the conversation now to contribute your solution to some of these mind-twisters.
+Google | Phone Screen | Stack that supports Min, Max, Avg, and Mode
+Google | Phone screen | Remove repeating numbers
+Google | String Matching
+Amazon Interview Question
+Google Phone Interview Question DP
+
+Detailed Problem Analysis 💡
+Some concepts are just mind-boggling, so here is some of the best break-down of difficult concepts.
+My System Design Template
+Design a Logistics System
+5 flavors of singleton!
+
+*Above list curated as of December 20, 2019
+
+Update 1(December 26, 2019): Wow! Have you seen this post that got 1.4k upvotes in 4 days and won our Giveaway for 2019? 🤯 Check it out now:
+Dynamic Programming Patterns
+
+Update 2,(December 28, 2019): Read this comprehensive interviewing experience from our user as they bare their soul about their journey that had led them to a job offer at Google!
+Google | L3 | Bangalore | Dec 2019 
