@@ -1,0 +1,73 @@
+//very bad solution.. had to submit many times to know edge cases.
+
+class Solution {
+    public int orangesRotting(int[][] grid) {
+        
+       int time=0; 
+        
+        return bfs(grid,time);
+        
+        
+    }
+    
+    public int bfs(int[][] grid, int time){
+        
+        if (grid.length == 1 && grid[0].length ==1 && grid[0][0]==0) return 0;
+        Queue<Integer> q = new LinkedList<Integer>();
+        
+        //if (isLandOranges(grid)) return -1;
+        
+        for (int i=0;i<grid.length;i++){
+            for (int j=0; j<grid[0].length;j++){
+                if(grid[i][j] == 2){
+                    q.offer(i);
+                    q.offer(j);
+                    
+                }
+            }
+        }
+        
+        if (q.size() ==0) return -1;
+        q.offer(99);
+        q.offer(99);
+        
+        while (!q.isEmpty()){
+            int tempi = q.poll();
+            int tempj = q.poll();
+            
+            if  (tempi== 99){
+                
+                if (!q.isEmpty()){
+                    q.offer(99);
+                    q.offer(99);
+                    time++;
+                }
+                //
+            }
+            else {
+                    isvalid(tempi-1,tempj, grid,q);
+                    isvalid(tempi+1,tempj, grid,q);
+                    isvalid(tempi,tempj-1, grid,q);
+                    isvalid(tempi,tempj+1, grid,q);  
+            
+            }
+            
+            
+        }
+       return isCompletelyRotten(grid) ? time : -1  ;
+        
+        //return 0;
+    }
+    
+    
+    
+    
+    public void isvalid(int i, int j,int[][] grid,Queue<Integer> q ){
+        if (i<0 ||  i>= grid.length || j<0 || j>=grid[0].length || grid[i][j] != 1){
+            return ;
+        }
+        grid[i][j] = 2;
+        q.offer(i);
+        q.offer(j);
+        return ;
+    }
